@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #1F2937;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-logo {
+    padding: 0px;
+    display: flex;
+    align-self: flex-start;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+
+.intro-text {
+    height: 120px;
+    background-color: #1F2937;
+}
+
+ .random-info {
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: auto;
+}
+
+.midpage {
+    background-color: #e5e7eb;
+    height: 200px;
+}
+
+.footer-one {
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+}
+
+.footer-two {
+    background-color: #1F2937;
+    height: 100px;
+}
+
